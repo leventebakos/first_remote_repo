@@ -1,3 +1,4 @@
 First text file
 modification
 another modification
+difftool
